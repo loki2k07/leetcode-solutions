@@ -4,7 +4,7 @@
 
 **Roll No:** R25EF126
 
-Personal LeetCode practice log — part of B25GE0101 portfolio
+This repository contains my LeetCode solutions completed as part of the B25GE0101 Portfolio Building for Engineering Students activity. It includes solutions, problem documentation, Accepted-result screenshots, and a progress tracker.s
 
 ## Topics
 
