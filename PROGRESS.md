@@ -1,4 +1,3 @@
-# LeetCode Progress
 
 # LeetCode Progress
 
